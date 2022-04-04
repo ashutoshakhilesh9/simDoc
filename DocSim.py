@@ -1,5 +1,5 @@
 import numpy as np
-
+import pandas as pd
 
 class DocSim:
     def __init__(self, w2v_model, stopwords=None):
